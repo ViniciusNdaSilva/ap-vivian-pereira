@@ -5,6 +5,18 @@
   header nav {
     background-color: #59273A !important;
   }
+
+  .menu-background-changed {
+    background-color: #F2EEEB !important;
+  }
+  
+  .menu-background-changed a>i {
+    color: #F2EEEB !important;
+  }
+  
+  .menu-background-changed a {
+    color: #f2EEEB !important;
+  }
   
   .nav-link {
     color: #F2EEEB !important;
